@@ -1,6 +1,0 @@
--> folder format -> day_dataStructure_part
-   example - d20_dynamicProgramming2
--> file format ->
-1) questionName.cpp
-2) questionName.java             
-    example - LRUCache.java, LRUCache.cpp
