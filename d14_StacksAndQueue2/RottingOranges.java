@@ -19,7 +19,6 @@ public class RottingOranges {
     public int orangesRotting(int[][] grid) {
         int n = grid.length;
         int m = grid[0].length;
-        int t = 0;
 
         LinkedList<Pair> que = new LinkedList<>();
 
